@@ -81,7 +81,7 @@ Organisasjonsnavn, identifiserende informasjon og sensitiv kontekst er fjernet. 
 
 ### Bedre ressursutnyttelse
 
-![Bedre ressursutnyttelse](ressursutnyttelse.png)
+![Bedre ressursutnyttelse](bedreressursutnyttelse.png)
 
 ## Merknad
 
