@@ -75,11 +75,7 @@ Analysen viser også fordelingen mellom enkeltreiser og samkjørte reiser, samt 
 - Oversettelse av datafunn til operasjonelle problemstillinger
 
 ## Personvern og data
-
-Det opprinnelige datasettet er ikke publisert i dette repositoryet.
-
-Organisasjonsnavn, identifiserende informasjon og sensitiv kontekst er fjernet. Dataene som vises offentlig er anonymisert eller tilpasset for bruk i porteføljen.
-
+Organisasjonsnavn, identifiserende informasjon og sensitiv kontekst er fjernet.
 ## Rapport
 
 ### Likeverdig tilgang og pasientbehov
