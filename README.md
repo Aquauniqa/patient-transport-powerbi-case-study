@@ -19,6 +19,11 @@ Analysen tar utgangspunkt i blant annet følgende spørsmål:
 - Er registrerte spesielle behov ulikt fordelt mellom ulike grupper av reiser?
 - Finnes det mønstre som kan indikere muligheter for bedre ressursutnyttelse?
 
+## Datamodell
+
+Rapporten er bygget på en relasjonell datamodell som kobler informasjon om reiser, bestillinger, pasientbehov og andre relevante dimensjoner. Modellen er anonymisert for porteføljebruk.
+![Datamodell](![Datamodell])
+
 ## Viktige KPI-er
 
 Rapporten inneholder blant annet:
