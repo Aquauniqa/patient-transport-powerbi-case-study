@@ -22,7 +22,7 @@ Analysen tar utgangspunkt i blant annet følgende spørsmål:
 ## Datamodell
 
 Rapporten er bygget på en relasjonell datamodell som kobler informasjon om reiser, bestillinger, pasientbehov og andre relevante dimensjoner. Modellen er anonymisert for porteføljebruk.
-[Datamodell]Data-model.png
+(Data-model.png)
 
 ## Viktige KPI-er
 
