@@ -50,7 +50,7 @@ Analysen viser også fordelingen mellom enkeltreiser og samkjørte reiser, samt 
 
 ## Hovedfunn
 
--Samkjøring utgjør en relativt liten del av reisene, noe som indikerer et mulig potensial for bedre ressursutnyttelse.
+- Samkjøring utgjør en relativt liten del av reisene, noe som indikerer et mulig potensial for bedre ressursutnyttelse.
 - Reisebelastningen varierer gjennom uken og er høyest tidlig i uken.
 - Reiser med registrerte spesielle behov viser ulike mønstre mellom gruppene når relativ andel sammenlignes med absolutt volum.
 - Reisedistanse alene ser ikke ut til å forklare forskjellene mellom gruppene.
