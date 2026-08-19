@@ -77,11 +77,11 @@ Organisasjonsnavn, identifiserende informasjon og sensitiv kontekst er fjernet. 
 
 ### Likeverdig tilgang og pasientbehov
 
-![Likeverdig tilgang og pasientbehov](images/likeverdig-tilgang.png)
+![Likeverdig tilgang og pasientbehov](likeverdig-tilgang.png)
 
 ### Bedre ressursutnyttelse
 
-![Bedre ressursutnyttelse](images/ressursutnyttelse.png)
+![Bedre ressursutnyttelse](ressursutnyttelse.png)
 
 ## Merknad
 
