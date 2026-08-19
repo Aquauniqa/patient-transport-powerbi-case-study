@@ -6,7 +6,7 @@ Dette prosjektet viser en Power BI-analyse av anonymiserte data om pasienttransp
 
 Formålet med analysen var å undersøke hvordan transportressursene brukes, samtidig som jeg så nærmere på likeverdig tilgang, registrerte pasientbehov og muligheter for bedre samkjøring.
 
-Organisasjonsnavn og annen identifiserende informasjon er fjernet. Dataene som presenteres i denne offentlige versjonen er anonymisert og tilpasset for bruk i porteføljen.
+Organisasjonsnavn og annen identifiserende informasjon er fjernet. 
 
 ## Problemstillinger
 
@@ -47,6 +47,13 @@ Den andre delen av rapporten fokuserer på samkjøring og reisebelastning.
 Reisevolumet ble sammenlignet mellom ukedagene for å identifisere perioder med høy belastning.
 
 Analysen viser også fordelingen mellom enkeltreiser og samkjørte reiser, samt forskjeller i gjennomsnittlig reisedistanse. Dette kan brukes som grunnlag for å identifisere områder hvor bedre samkjøring potensielt kan gi mer effektiv ressursutnyttelse.
+
+## Hovedfunn
+
+-Samkjøring utgjør en relativt liten del av reisene, noe som indikerer et mulig potensial for bedre ressursutnyttelse.
+- Reisebelastningen varierer gjennom uken og er høyest tidlig i uken.
+- Reiser med registrerte spesielle behov viser ulike mønstre mellom gruppene når relativ andel sammenlignes med absolutt volum.
+- Reisedistanse alene ser ikke ut til å forklare forskjellene mellom gruppene.
 
 ## Verktøy
 
